@@ -1,0 +1,13 @@
+body{
+    background: url(file://C:/Users/ulasd/OneDrive/Desktop/GitHub/TriviaGame/assets/images/background.jpg);
+}
+
+
+input {
+    margin: 20px;
+}
+
+p {
+    line-height: 70px;
+    margin-bottom: 30px;
+}
